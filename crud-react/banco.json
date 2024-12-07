@@ -1,0 +1,44 @@
+{
+  "categoria": [
+    {
+      "id": "1",
+      "nome": "notebook core i3",
+      "qtde": 10,
+      "preco": 1500
+    },
+    {
+      "id": "2",
+      "nome": "notebook core i5",
+      "qtde": 5,
+      "preco": 1500
+    }
+  ],
+  
+  "login": [
+    {
+      "id": 1,
+      "email": "ana@gmail.com",
+      "senha": "123"
+    },
+    {
+      "id": "ce7b",
+      "email": "giovanni@gmail.com",
+      "senha": "123"
+    },
+    {
+      "id": "aa0f",
+      "email": "eduardo@gmail.com",
+      "senha": "123"
+    },
+    {
+      "email": "fernando@gmail.com",
+      "senha": "123",
+      "id": "84d4"
+    },
+    {
+      "email": "amanda@gmail.com",
+      "senha": "123",
+      "id": "1ca1"
+    }
+  ]
+}
